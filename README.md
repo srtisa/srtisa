@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQFPN21bJaXZ-w/profile-displaybackgroundimage-shrink_350_1400/0/1676756378049?e=1702512000&v=beta&t=NqWZXjJBHEfu513bcazfbmfbGdnkLxtkvHFCwJ_5WfA" width="900" height="200">
  
  ## Eu 
- ### <center>Oi! Sou Isabel, escolhi aprender programação para mudar de vida. Neste momento estou aprendendo ***JavaScript*** focado em BackEnd e ***Desenvolvimento de Games***, também usando JS. Faço T.I na Unisul e meu objetivo mais próximo é estagiar nessas áreas.<center>
+  Oi! Sou Isabel, escolhi aprender programação para mudar de vida. Neste momento estou aprendendo ***JavaScript*** focado em BackEnd e ***Desenvolvimento de Games***, também usando JS. Faço T.I na Unisul e meu objetivo mais próximo é estagiar nessas áreas.
  ![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=srtisa&show_icons=true&theme=transparent)
 
 ## O que faço da vida 
