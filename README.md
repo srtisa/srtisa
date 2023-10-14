@@ -2,6 +2,7 @@
  
  ## Eu 
  ### <center> Oi! Sou Isabel, escolhi aprender programação para mudar de vida. Neste momento estou aprendendo ***JavaScript*** focado em BackEnd e ***Desenvolvimento de Games***, também usando JS. Faço T.I na Unisul e meu objetivo mais próximo é estagiar nessas áreas. <center>
+ ![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=srtisa&show_icons=true&theme=transparent)
 
 ## O que faço da vida 
 -   Trabalho como ***Assistente de Professora*** em um reforço no meu bairro, minha área de ensino principal é a  ***Matemática***.
@@ -21,3 +22,5 @@
 - 1/4 de Programação com JS concluidos;
 - Em andamento com Desenvolvimento de Games.
 <img src="https://hermes.dio.me/tracks/83f8150a-6429-4c1a-9207-d5bff610f647.png" width="150" height="150">
+<img scr="https://hermes.dio.me/courses/badge/406684a4-396d-4160-94b9-ead934e18564.png" width="150" height="150">
+
