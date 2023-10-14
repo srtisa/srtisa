@@ -13,7 +13,7 @@
 
  Esse ano tem sido meu ***start*** para uma vida nova, tenho atingido meus objetivos, por exemplo:
 - 📚 Li mais de 15 livros esse ano, nunca havia passado de 6 nos últimos anos;
-- 🎧 Aprimorei meu ***Inglês***, além de ler, escrever e falar, consigo ouvir com mais facilidade, entendendo até podcasts, estou buscando o nível B! agora;
+- 🎧 Aprimorei meu ***Inglês***, além de ler, escrever e falar, consigo ouvir com mais facilidade, entendendo até podcasts, estou buscando o nível B1 agora;
 - 💵Entendi a importância da educação financeira e tenho trabalhado nela, com isso tenho mais liberdade para focar em atividades e materiais importantes para meu futuro;
 - 🌟Entendi um ponto super importante, mas que as vezes esquecemos: *a vida é minha, se eu não seguir meus objetivos e trabalhar por eles, quem vai fazer isso?* Isso me libertou de vários pensamentos limitadores, me deu uma ampla visão do mundo e da vida em sí.
 
